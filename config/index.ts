@@ -3,11 +3,11 @@ export const APP_ID = 'eead2fde-6ddd-4c3d-81ce-09e0b6b20f0d'
 export const API_KEY = 'app-sP7iR45uAwCCpxkPr5HFsVgD'
 export const API_URL = ''
 export const APP_INFO: AppInfo = {
-  title: 'Chat APP',
+  title: 'Interview Bot',
   description: '',
   copyright: '',
   privacy_policy: '',
-  default_language: 'zh-Hans',
+  default_language: 'en',
 }
 
 export const isShowPrompt = false
